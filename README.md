@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/Xvirus-Team/xvirus-tools">
-    <img src="https://media.discordapp.net/attachments/944805030161170502/1176167251339116655/White_Orange_Modern_N_Alphabet_Tech_Business_Logo_1.png?ex=656de21c&is=655b6d1c&hm=c7175848a1a471ef5ddfd5492a8451b680fcf926ddbe910da998fec9801ee27c&=&format=webp&width=577&height=577" alt="Logo" width="80" height="80">
+    <img src="https://img.xdnvz.xyz/uploads/TaylorSwift13/ox2.png" alt="Logo" width="80" height="80">
   </a>
   <h3 align="center">[tools]- Oxygen</h3>
 </p>
