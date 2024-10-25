@@ -47,4 +47,4 @@
 
 #### ภาพประกอบ
 
-![bots-preview]([https://media.discordapp.net/attachments/1176389873066844231/1177456414466244648/image.png](https://img.xdnvz.xyz//uploads/TaylorSwift13/Screenshot 2024-10-25 072832.png))
+![bots-preview]([https://img.xdnvz.xyz/uploads/TaylorSwift13/Screenshot 2024-10-25 072832.png])
