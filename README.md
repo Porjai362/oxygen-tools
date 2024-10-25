@@ -47,4 +47,4 @@
 
 #### ภาพประกอบ
 
-![bots-preview](https://img.xdnvz.xyz/uploads/TaylorSwift13/Screenshot 2024-10-25 072832.png)
+![bots-preview](https://img.xdnvz.xyz//uploads/TaylorSwift13/hgj.png)
