@@ -23,7 +23,7 @@
 
 **Oxygen-tools** เป็นเครื่องมือ exe ที่ต้องทำการซื้อ เพื่อช่วยให้คุณโจมตีและทำลายเซิร์ฟเวอร์ Discord ผ่านบอท Api Discord
 
-![Discord Nuclear Flood v2.0.0 Console](https://media.discordapp.net/attachments/1176389873066844231/1177453236265947166/image.png)
+![Discord Nuclear Flood v2.0.0 Console](https://img.xdnvz.xyz/uploads/TaylorSwift13/ox2.png)
 
 ## คำชี้แจง 🔧
 
